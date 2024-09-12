@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAMPChatGUI", "SAMPChatGUI.csproj", "{A8E06B96-2CAF-42D2-8CE0-2F9DD12599AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8E06B96-2CAF-42D2-8CE0-2F9DD12599AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E06B96-2CAF-42D2-8CE0-2F9DD12599AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E06B96-2CAF-42D2-8CE0-2F9DD12599AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E06B96-2CAF-42D2-8CE0-2F9DD12599AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E3FD01D-235B-4123-A1AE-5D214AFBA790}
+	EndGlobalSection
+EndGlobal
